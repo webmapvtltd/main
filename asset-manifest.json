@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webmapvtltd/main.git/static/css/main.b6e40a10.css",
+    "main.js": "/webmapvtltd/main.git/static/js/main.7a51a905.js",
+    "index.html": "/webmapvtltd/main.git/index.html",
+    "main.b6e40a10.css.map": "/webmapvtltd/main.git/static/css/main.b6e40a10.css.map",
+    "main.7a51a905.js.map": "/webmapvtltd/main.git/static/js/main.7a51a905.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6e40a10.css",
+    "static/js/main.7a51a905.js"
+  ]
+}
