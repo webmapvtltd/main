@@ -22,7 +22,7 @@ export default function Footer() {
               <li><Link to="/" className="hover:text-gold-400">Home</Link></li>
               <li><Link to="/about" className="hover:text-gold-400">About</Link></li>
               <li><Link to="/services" className="hover:text-gold-400">Services</Link></li>
-              <li><Link to="/packages" className="hover:text-gold-400">Packages</Link></li>
+              {/* <li><Link to="/packages" className="hover:text-gold-400">Packages</Link></li> */}
               <li><Link to="/templates" className="hover:text-gold-400">Templates</Link></li>
               <li><Link to="/contact" className="hover:text-gold-400">Contact</Link></li>
 
@@ -35,6 +35,7 @@ export default function Footer() {
             <ul>
               <li>Email: <a href="mailto:webmasender@gmail.com" className="hover:text-gold-400">webmasender@gmail.com</a></li>
               <li>Phone: <a href="tel:+917667025267" className="hover:text-gold-400">+91 7667 025267</a></li>
+              <li><a href="https://wa.me/917667025267" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">WhatsApp</a></li>
             </ul>
           </div>
         </div>

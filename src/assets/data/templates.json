@@ -1,0 +1,208 @@
+[
+    {
+      "id": 1,
+      "title": "Royal Theme (Traditional & Grand)",
+      "type": "Marriage",
+      "pages": 3,
+      "img": "royal_wedding.png",
+      "previewUrl": "/preview/royal-theme",
+      "features": [
+        "Beautiful floral and mandala backgrounds",
+        "Bride & Groom introduction section with images",
+        "Wedding events timeline (Haldi, Mehendi, Sangeet, Wedding, Reception)",
+        "RSVP form for guests",
+        "Google Maps integration for venue details",
+        "Countdown timer to the wedding",
+        "Animated 'Save the Date' popup",
+        "Music autoplay (soft instrumental sitar or shehnai)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Modern Bollywood Style (Vibrant & Trendy)",
+      "type": "Marriage",
+      "pages": 3,
+      "img": "bollywood_wedding.png",
+      "previewUrl": "/preview/modern-bollywood-style",
+      "features": [
+        "Animated entry with wedding bells",
+        "Slideshow of couple’s pre-wedding photoshoot",
+        "Video invitation with personal message from bride & groom",
+        "Instagram-style gallery for guest messages and wishes",
+        "Digital gift registry link",
+        "'Our Love Story' timeline section",
+        "Social media sharing options"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Minimalist Temple Theme (Simple & Elegant)",
+      "type": "Marriage",
+      "pages": 1,
+      "img": "minimalist_temple.png",
+      "previewUrl": "/preview/minimalist-temple-theme",
+      "features": [
+        "Simple and responsive design",
+        "Sanskrit shlokas for a traditional touch",
+        "Invitation details with soft watercolor illustrations",
+        "RSVP with meal preference options (Veg, Non-Veg, Jain, etc.)",
+        "Venue location with Google Maps & weather forecast",
+        "Simple guestbook for wishes",
+        "QR code for easy access to the invitation"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cultural Heritage Theme (Regional & Artistic)",
+      "type": "Marriage",
+      "pages": 4,
+      "img": "cultural_heritage.png",
+      "previewUrl": "/preview/cultural-heritage-theme",
+      "features": [
+        "Aesthetic artwork inspired by Indian states (Rajasthani, Bengali, South Indian, etc.)",
+        "Animated Palki (Bride's arrival) and Baaraat (Groom’s entry)",
+        "Interactive map showing the wedding location and nearby attractions",
+        "Scroll-based storytelling of the couple's journey",
+        "Digital invitation card with an option to print/download",
+        "Traditional Folk Music (optional autoplay)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Bollywood Movie Theme (Fun & Filmy)",
+      "type": "Marriage",
+      "pages": 4,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/bollywood-movie-theme",
+      "features": [
+        "Poster-style homepage with couple’s names in Bollywood font",
+        "Sections designed as movie scenes (First Meeting, Proposal, Wedding Date Reveal)",
+        "RSVP with dialogue-based responses (e.g., 'Mogambo Khush Hua' for confirmation 😆)",
+        "GIFs & memes of Bollywood wedding moments",
+        "Music playlist of hit Bollywood wedding songs",
+        "Guest participation: Upload fun video messages"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Fantasy Wedding Theme (Royal Palace & Mythology Inspired)",
+      "type": "Marriage",
+      "pages": 5,
+      "img": "fantasy_wedding.png",
+      "previewUrl": "/preview/fantasy-wedding-theme",
+      "features": [
+        "Palace-inspired animations (doors opening to reveal the wedding details)",
+        "Wedding details styled as a royal decree (scroll format)",
+        "Virtual 'Aarti & Blessings' section for elders to send wishes",
+        "3D animated entrance with divine elements (floating diyas, temple bells)",
+        "Live Streaming Link for guests who can’t attend",
+        "Storytelling with Ramayana/Mahabharata-style narration for the couple’s journey"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Fairytale Romance Theme (Whimsical & Magical)",
+      "type": "Marriage",
+      "pages": 5,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/fairytale-romance-theme",
+      "features": [
+        "Enchanted forest-themed background with fairy lights",
+        "Couple's fairytale love story with illustrations (Castle, Carriage, etc.)",
+        "Interactive RSVP with animated 'Yes' or 'No' buttons",
+        "Wedding countdown with magical transitions",
+        "Floating butterflies and sparkles for a dreamy feel",
+        "Music: Soft orchestral music for a fairy tale atmosphere",
+        "Option to share a personalized 'Save the Date' video",
+        "Customizable wedding slogan or quote section"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Rustic Country Charm Theme (Natural & Warm)",
+      "type": "Marriage",
+      "pages": 5,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/rustic-country-charm-theme",
+      "features": [
+        "Wooden and floral accents to create a barn wedding vibe",
+        "Guestbook with an option to leave wishes and a picture",
+        "Photos of nature (fields, forests, farm elements) integrated into design",
+        "Timeline of events in the form of a hand-drawn sketch",
+        "RSVP with meal selection and dietary preferences (Farm-to-Table menu)",
+        "Interactive location map with local farm or venue details",
+        "Wedding registry link with rustic-themed items",
+        "Romantic quotes from country music or poems"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Beachside Bliss Theme (Serene & Romantic)",
+      "type": "Marriage",
+      "pages": 4,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/beachside-bliss-theme",
+      "features": [
+        "Beach-inspired background with waves and seashells",
+        "Customizable 'Save the Date' message in the form of a bottle or message on a beach",
+        "Wedding timeline with icons like sun, surfboards, and palm trees",
+        "RSVP form with easy navigation and quick responses",
+        "Guestbook with a photo upload feature to add memories of the event",
+        "Countdown timer with ocean wave animation",
+        "Romantic beachside song autoplay (ocean sounds or light instrumental)",
+        "Personalized wedding vows section for guests to send wishes"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Vintage Glamour Theme (Timeless & Elegant)",
+      "type": "Marriage",
+      "pages": 5,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/vintage-glamour-theme",
+      "features": [
+        "Art deco and vintage Hollywood-inspired design",
+        "Soft gold accents and luxurious textures",
+        "Interactive wedding timeline with vintage photo booth images",
+        "RSVP form with personalized message options",
+        "Guestbook with digital photo upload and comments",
+        "Live streaming integration for guests",
+        "Themed music playlist with classics from the '40s and '50s",
+        "Customizable wedding invitation video with old Hollywood charm"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Glamorous Bollywood Red Carpet Theme",
+      "type": "Marriage",
+      "pages": 6,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/bollywood-red-carpet-theme",
+      "features": [
+        "Glamorous red carpet design with gold and black accents",
+        "Interactive guest list with celebrity-style RSVP",
+        "Exclusive wedding entry with animated paparazzi flashes",
+        "Slideshow of couple's favorite Bollywood movie moments",
+        "Live stream the wedding with red carpet interviews",
+        "Personalized wedding song playlist inspired by Bollywood hits"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Modern Boho Chic Theme (Relaxed & Trendy)",
+      "type": "Marriage",
+      "pages": 4,
+      "img": "unavailable.jpg",
+      "previewUrl": "/preview/modern-boho-chic-theme",
+      "features": [
+        "Bohemian style with dreamcatchers, feathers, and earthy tones",
+        "Interactive RSVP with custom message options",
+        "Wedding timeline with minimalist icons",
+        "Flower crown photo booth and guestbook",
+        "RSVP form with meal preference options",
+        "Music playlist of acoustic and indie songs",
+        "Option to share personalized wedding vows or messages"
+      ]
+    }
+  ]
+  

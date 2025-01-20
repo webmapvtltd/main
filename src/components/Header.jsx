@@ -12,7 +12,7 @@ export default function Header() {
           {/* Logo */}
           <h1 className="text-3xl font-bold text-gold-400 p-2">
             <Link to="/">
-              <img src="/icon.png" alt="Logo" className="h-10 w-auto md:h-12" />
+              <img src="icon.png" alt="Logo" className="h-10 w-auto md:h-12" />
             </Link>
           </h1>
 
@@ -27,9 +27,9 @@ export default function Header() {
             <Link to="/services" className="hover:text-gold-400">
               Services
             </Link>
-            <Link to="/packages" className="hover:text-gold-400">
+            {/* <Link to="/packages" className="hover:text-gold-400">
               Packages
-            </Link>
+            </Link> */}
             <Link to="/templates" className="hover:text-gold-400">
               Templates
             </Link>
@@ -78,11 +78,11 @@ export default function Header() {
                 Services
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="/packages" className="hover:text-gold-400">
                 Packages
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link to="/templates" className="hover:text-gold-400">
                 Templates
