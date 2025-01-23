@@ -2,7 +2,7 @@
   "name": "main",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://webmapvtltd.github.io/main/",
+  "homepage": "https://www.webma.in/",
   "dependencies": {
     "cra-template": "1.2.0",
     "emailjs-com": "^3.2.0",
